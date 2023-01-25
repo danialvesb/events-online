@@ -1,6 +1,7 @@
 # untapped
 
-A new Flutter project.
+Projeto de médio porte, para eventos online, onde o usuário pode comprar ingressos e validar os tickets para entrar no show.
+Depende da API desenvolvida em spring boot.
 
 ## Getting Started
 
